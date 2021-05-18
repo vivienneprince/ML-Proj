@@ -1,29 +1,14 @@
-# PCA Demo
-Using principal component analysis to perdict Leauge of Legends game outcomes from the 1st 10 minutes of gameplay. 
+# Anonymous data ML
+PCA vs MLP vs SVM 
 
-# PCA Notes
-Plan:
-1. Standardization of features:
-
-<p style="padding-left: 28.5px">
-    Mean &#8594; 0 
-</p>
-<p style="padding-left: 28.5px">
-    If the importance of features is independent of the variance of the features, then sd &#8594; 1. 
-    Otherwise, leave as is.
-    In the case of the LoL dataset, this is true. So we will be fully normalizing these features.
-</p>
-
-2. Calculate [scatter or covariance matrix](http://www.statistics4u.com/fundstat_eng/cc_covarmat.html "learn more about these matrices here") of the features
-
-3. 
-
-
+# Slides
+https://docs.google.com/presentation/d/1-UnYifWDvwzbipR0Wk-1Y2iJkOaRQDio_cRvrbKjMwU/edit?usp=sharing
 
 # References
+see in code ^_^  
 
 **Data:**  
-https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min
+https://www.kaggle.com/mlg-ulb/creditcardfraud   
 
 **Resources**  
 https://stattrek.com/matrix-algebra/covariance-matrix.aspx  
